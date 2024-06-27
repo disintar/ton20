@@ -1,0 +1,15 @@
+django==4.2.10
+tonpy-dev==0.0.0.4.5a1
+tqdm
+psycopg2-binary
+loguru
+notebook
+pandas
+cytoolz
+orjson
+djangorestframework
+drf-yasg
+django-filter
+gunicorn
+python-dotenv
+whitenoise
